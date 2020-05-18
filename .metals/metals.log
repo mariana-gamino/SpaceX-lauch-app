@@ -1,0 +1,3 @@
+2020.05.17 12:38:48 INFO  started: Metals version 0.9.0 in workspace '/home/mariana/Proyects/fullstack-tutorial'
+2020.05.17 12:38:50 INFO  time: initialize in 2.48s
+2020.05.17 12:38:54 WARN  no build tool detected in workspace '/home/mariana/Proyects/fullstack-tutorial'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
